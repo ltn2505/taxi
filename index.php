@@ -94,44 +94,38 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active" style="min-height: 300px;">
-                    <img class="position-relative w-100" src="img/ex2.jpg"
-                        style="min-height: 300px; object-fit: cover;">
+                    <img class="position-relative w-100" src="img/ex2.jpg" style="min-height: 300px; object-fit: cover;">
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
                             <h2 class="text-white text-uppercase mb-md-3">Dịch vụ</h2>
                             <h5 class="display-3 text-white mb-md-4">Tận tình, thân thiện với khách hàng. Đưa rước khách
                                 hàng
                                 tận nơi khách yêu cầu.</h5>
-                            <a href="tel:0901015334"
-                                class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi Ngay:
+                            <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi Ngay:
                                 0901015334</a>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item" style="min-height: 300px;">
-                    <img class="position-relative w-100" src="img/ex3.jpg"
-                        style="min-height: 300px; object-fit: cover;">
+                    <img class="position-relative w-100" src="img/ex3.jpg" style="min-height: 300px; object-fit: cover;">
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
                             <h2 class="text-white text-uppercase mb-md-3">Chất lượng xe</h2>
                             <h5 class="display-3 text-white mb-md-4">Có nhiều loại xe để khách hàng lựa chọn. Đảm bảo xe
                                 mới và làm hài lòng khách hàng.</h5>
-                            <a href="tel:0901015334"
-                                class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi Ngay:
+                            <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi Ngay:
                                 0901015334</a>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item" style="min-height: 300px;">
-                    <img class="position-relative w-100" src="img/ex4.jpg"
-                        style="min-height: 300px; object-fit: cover;">
+                    <img class="position-relative w-100" src="img/ex4.jpg" style="min-height: 300px; object-fit: cover;">
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
                             <h2 class="text-white text-uppercase mb-md-3">Tài xế</h2>
                             <h5 class="display-3 text-white mb-md-4">Có nhiều năm kinh nghiệm trong nghề. Đảm bảo đi đến
                                 nơi về đến chốn.</h5>
-                            <a href="tel:0901015334"
-                                class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi Ngay:
+                            <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi Ngay:
                                 0901015334</a>
                         </div>
                     </div>
@@ -195,8 +189,7 @@
                         width: 320px;" src="img/c4.jpg" alt="">
                     </div>
                     <h4 style="text-align: center;">4 Chỗ</h4>
-                    <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2"
-                        style="width: inherit;">Gọi
+                    <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2" style="width: inherit;">Gọi
                         Ngay:
                         0901015334</a>
                 </div>
@@ -206,8 +199,7 @@
                         width: 320px;" src="img/c7.jpg" alt="">
                     </div>
                     <h4 style="text-align: center;">7 Chỗ</h4>
-                    <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2"
-                        style="width: inherit;">Gọi
+                    <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2" style="width: inherit;">Gọi
                         Ngay:
                         0901015334</a>
                 </div>
@@ -217,8 +209,7 @@
                         width: 320px;" src="img/c16.jpg" alt="">
                     </div>
                     <h4 style="text-align: center;">16 Chỗ</h4>
-                    <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2"
-                        style="width: inherit;">Gọi
+                    <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2" style="width: inherit;">Gọi
                         Ngay:
                         0901015334</a>
                 </div>
@@ -228,8 +219,7 @@
                         width: 320px;" src="img/tl.jpg" alt="">
                     </div>
                     <h4 style="text-align: center;">Thuê xe tự lái</h4>
-                    <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2"
-                        style="width: inherit;">Gọi
+                    <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2" style="width: inherit;">Gọi
                         Ngay:
                         0901015334</a>
                 </div>
@@ -262,8 +252,7 @@
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>5.0
                                         <small>(5050)</small>
                                     </h6>
-                                    <h5 class="m-0"><a href="tel:0901015334"
-                                            class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
+                                    <h5 class="m-0"><a href="tel:0901015334" class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
                                             Ngay</a></h5>
                                 </div>
                             </div>
@@ -284,8 +273,7 @@
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>5.0
                                         <small>(2500)</small>
                                     </h6>
-                                    <h5 class="m-0"><a href="tel:0901015334"
-                                            class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
+                                    <h5 class="m-0"><a href="tel:0901015334" class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
                                             Ngay</a></h5>
                                 </div>
                             </div>
@@ -306,8 +294,7 @@
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>5.0
                                         <small>(3500)</small>
                                     </h6>
-                                    <h5 class="m-0"><a href="tel:0901015334"
-                                            class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
+                                    <h5 class="m-0"><a href="tel:0901015334" class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
                                             Ngay</a></h5>
                                 </div>
                             </div>
@@ -353,16 +340,14 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid bg-dark text-white border-top py-4 px-sm-3 px-md-5"
-        style="border-color: rgba(256, 256, 256, .1) !important;">
+    <div class="container-fluid bg-dark text-white border-top py-4 px-sm-3 px-md-5" style="border-color: rgba(256, 256, 256, .1) !important;">
         <div class="row">
             <div class="col-lg-12 text-center text-md-left mb-3 mb-md-0" style="margin-left: 18%;">
                 <p class="text-decoration-none">
                 <h1 class="m-0" style="width: max-content; color: aliceblue;"><span class="text-primary">Taxi
                     </span>Thắng Lợi
                 </h1>
-                <a style="margin-right: 25%;" href="tel:0901015334"
-                    class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
+                <a style="margin-right: 25%;" href="tel:0901015334" class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
                     Ngay 0901.015.334</a>
                 </p>
             </div>
@@ -380,8 +365,7 @@
             <div class="hotline-phone-ring-circle-fill"></div>
             <div class="hotline-phone-ring-img-circle">
                 <a href="tel:0987654321" class="pps-btn-img">
-                    <img src="https://nguyenhung.net/wp-content/uploads/2019/05/icon-call-nh.png" alt="Gọi điện thoại"
-                        width="50">
+                    <img src="https://nguyenhung.net/wp-content/uploads/2019/05/icon-call-nh.png" alt="Gọi điện thoại" width="50">
                 </a>
             </div>
         </div>

@@ -147,8 +147,8 @@
                     <div class="mb-4">
                         <h2 style="white-space: nowrap;" class="text-white">Khách hàng là thượng đế</h2>
                         <h8 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px; white-space: nowrap;">
-                            Hãy liên hệ với chúng
-                            tôi</h8>
+                            Liên hệ tại:
+                        </h8>
                         <div class="col-lg-4 text-right" style="text-align: left !important;">
                             <div class="d-inline-flex align-items-center">
                                 <i class="fa fa-2x fa-map-marker-alt text-primary mr-3"></i>

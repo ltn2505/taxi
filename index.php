@@ -145,7 +145,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-7 mb-5 mb-lg-0">
                     <div class="mb-4">
-                        <h2 class="text-white">Khách hàng là thượng đế</h2>
+                        <h2 style="white-space: nowrap;" class="text-white">Khách hàng là thượng đế</h2>
                         <h8 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px; white-space: nowrap;">
                             Hãy liên hệ với chúng
                             tôi</h8>

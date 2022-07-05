@@ -47,10 +47,10 @@
             </div>
             <div class="col-lg-4 text-right">
                 <div class="d-inline-flex align-items-center">
-                    <a href="tel:0901015334"><i class="fa fa-2x fa-phone text-primary mr-3"></i></a>
+                    <a href="tel:0888269500"><i class="fa fa-2x fa-phone text-primary mr-3"></i></a>
                     <div class="text-left">
                         <h6 class="font-weight-semi-bold mb-1">Hotline:</h6>
-                        <a href="tel:0901015334">0901015334</a>
+                        <a href="tel:0888269500">0888269500</a>
                     </div>
                 </div>
             </div>
@@ -101,8 +101,8 @@
                             <h5 class="display-3 text-white mb-md-4">Tận tình, thân thiện với khách hàng. Đưa rước khách
                                 hàng
                                 tận nơi khách yêu cầu.</h5>
-                            <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi Ngay:
-                                0901015334</a>
+                            <a href="tel:0888269500" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi Ngay:
+                                0888269500</a>
                         </div>
                     </div>
                 </div>
@@ -113,8 +113,8 @@
                             <h2 class="text-white text-uppercase mb-md-3">Chất lượng xe</h2>
                             <h5 class="display-3 text-white mb-md-4">Có nhiều loại xe để khách hàng lựa chọn. Đảm bảo xe
                                 mới và làm hài lòng khách hàng.</h5>
-                            <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi Ngay:
-                                0901015334</a>
+                            <a href="tel:0888269500" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi Ngay:
+                                0888269500</a>
                         </div>
                     </div>
                 </div>
@@ -125,8 +125,8 @@
                             <h2 class="text-white text-uppercase mb-md-3">Tài xế</h2>
                             <h5 class="display-3 text-white mb-md-4">Có nhiều năm kinh nghiệm trong nghề. Đảm bảo đi đến
                                 nơi về đến chốn.</h5>
-                            <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi Ngay:
-                                0901015334</a>
+                            <a href="tel:0888269500" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi Ngay:
+                                0888269500</a>
                         </div>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
     <!-- Banner -->
     <div class="text-center mb-5">
         <h1 id="lienhe">Tổng đài làm việc 24/24</h1>
-        <a href="tel:0901015334" class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi Ngay</a>
+        <a href="tel:0888269500" class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi Ngay</a>
     </div>
     <div class="container-fluid bg-registration py-5">
         <div class="container py-5">
@@ -160,10 +160,10 @@
                         </div>
                         <div class="col-lg-4 text-right" style="text-align: left !important;">
                             <div class="d-inline-flex align-items-center">
-                                <a href="tel:0901015334"><i class="fa fa-2x fa-phone text-primary mr-3"></i></a>
+                                <a href="tel:0888269500"><i class="fa fa-2x fa-phone text-primary mr-3"></i></a>
                                 <div class="text-left">
                                     <h6 class="font-weight-semi-bold mb-1">Hotline:</h6>
-                                    <a class="text-white" href="tel:0901015334">0901015334</a>
+                                    <a class="text-white" href="tel:0888269500">0888269500</a>
                                 </div>
                             </div>
                         </div>
@@ -189,9 +189,9 @@
                         width: 320px;" src="img/c4.jpg" alt="">
                     </div>
                     <h4 style="text-align: center;">4 Chỗ</h4>
-                    <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2" style="width: inherit;">Gọi
+                    <a href="tel:0888269500" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2" style="width: inherit;">Gọi
                         Ngay:
-                        0901015334</a>
+                        0888269500</a>
                 </div>
                 <div class="col-lg-3 col-md-6 mb-4">
                     <div class="cat-item position-relative overflow-hidden rounded mb-2">
@@ -199,9 +199,9 @@
                         width: 320px;" src="img/c7.jpg" alt="">
                     </div>
                     <h4 style="text-align: center;">7 Chỗ</h4>
-                    <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2" style="width: inherit;">Gọi
+                    <a href="tel:0888269500" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2" style="width: inherit;">Gọi
                         Ngay:
-                        0901015334</a>
+                        0888269500</a>
                 </div>
                 <div class="col-lg-3 col-md-6 mb-4">
                     <div class="cat-item position-relative overflow-hidden rounded mb-2">
@@ -209,9 +209,9 @@
                         width: 320px;" src="img/c16.jpg" alt="">
                     </div>
                     <h4 style="text-align: center;">16 Chỗ</h4>
-                    <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2" style="width: inherit;">Gọi
+                    <a href="tel:0888269500" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2" style="width: inherit;">Gọi
                         Ngay:
-                        0901015334</a>
+                        0888269500</a>
                 </div>
                 <div class="col-lg-3 col-md-6 mb-4">
                     <div class="cat-item position-relative overflow-hidden rounded mb-2">
@@ -219,9 +219,9 @@
                         width: 320px;" src="img/tl.jpg" alt="">
                     </div>
                     <h4 style="text-align: center;">Thuê xe tự lái</h4>
-                    <a href="tel:0901015334" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2" style="width: inherit;">Gọi
+                    <a href="tel:0888269500" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2" style="width: inherit;">Gọi
                         Ngay:
-                        0901015334</a>
+                        0888269500</a>
                 </div>
             </div>
         </div>
@@ -252,7 +252,7 @@
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>5.0
                                         <small>(5050)</small>
                                     </h6>
-                                    <h5 class="m-0"><a href="tel:0901015334" class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
+                                    <h5 class="m-0"><a href="tel:0888269500" class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
                                             Ngay</a></h5>
                                 </div>
                             </div>
@@ -273,7 +273,7 @@
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>5.0
                                         <small>(2500)</small>
                                     </h6>
-                                    <h5 class="m-0"><a href="tel:0901015334" class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
+                                    <h5 class="m-0"><a href="tel:0888269500" class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
                                             Ngay</a></h5>
                                 </div>
                             </div>
@@ -294,7 +294,7 @@
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>5.0
                                         <small>(3500)</small>
                                     </h6>
-                                    <h5 class="m-0"><a href="tel:0901015334" class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
+                                    <h5 class="m-0"><a href="tel:0888269500" class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
                                             Ngay</a></h5>
                                 </div>
                             </div>
@@ -315,7 +315,7 @@
                         <h5 class="text-primary text-uppercase mb-4" style="letter-spacing: 5px;">Thông tin</h5>
                         <p><i class="fa fa-map-marker-alt mr-2"></i>Trung tâm thị trấn Phong Điền, huyện Phong Điền, TP
                             Cần Thơ</p>
-                        <p><i class="fa fa-phone-alt mr-2"></i>0901.015.334</p>
+                        <p><i class="fa fa-phone-alt mr-2"></i>0888.269.500</p>
                     </div>
                     <div class="col-md-6 mb-5">
                         <h5 class="text-primary text-uppercase mb-4" style="letter-spacing: 5px;">Cam kết</h5>
@@ -347,8 +347,8 @@
                 <h1 class="m-0" style="width: max-content; color: aliceblue;"><span class="text-primary">Taxi
                     </span>Thắng Lợi
                 </h1>
-                <a style="margin-right: 25%;" href="tel:0901015334" class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
-                    Ngay 0901.015.334</a>
+                <a style="margin-right: 25%;" href="tel:0888269500" class="btn btn-danger py-md-2 px-md-4 font-weight-semi-bold mt-2">Gọi
+                    Ngay 0888.269.500</a>
                 </p>
             </div>
         </div>
@@ -364,21 +364,21 @@
             <div class="hotline-phone-ring-circle"></div>
             <div class="hotline-phone-ring-circle-fill"></div>
             <div class="hotline-phone-ring-img-circle">
-                <a href="tel:0901015334" class="pps-btn-img">
+                <a href="tel:0888269500" class="pps-btn-img">
                     <img src="https://nguyenhung.net/wp-content/uploads/2019/05/icon-call-nh.png" alt="Gọi điện thoại" width="50">
                 </a>
             </div>
         </div>
         <div class="hotline-bar">
-            <a href="tel:0901015334">
-                <span class="text-hotline">0901.015.334</span>
+            <a href="tel:0888269500">
+                <span class="text-hotline">0888.269.500</span>
             </a>
         </div>
     </div>
 
     <div class="social-button">
         <div class="social-button-content">
-            <a href="http://zalo.me/0901015334" target="_blank" class="zalo">
+            <a href="http://zalo.me/0888269500" target="_blank" class="zalo">
                 <img src="https://nocodebuilding.com/wp-content/uploads/2020/07/zl.png" alt="Chat Zalo">
             </a>
         </div>
